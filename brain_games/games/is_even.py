@@ -1,16 +1,16 @@
-def is_even():
+def is_even(name):
 
     import prompt
     import random
 
-    name = prompt.string('May I have your name? ')
-    print(f'Hello, {name}!')
+    # start game
     print("Answer \"yes\" if the number is even, otherwise answer \"no\".")
     i = 0
     while i < 3:
         number = random.randint(0, 99)
         print("Question: " + str(number))
-        answer = prompt.string('Your answer: ')
+        answer = prompt.string('Your answer \033[033m>>> ')
+        print("\033[0m")
         if answer != 'yes' and answer != 'no':
             print("Let's try again, " + name + "!")
             break
@@ -35,4 +35,4 @@ def is_even():
                     print('Correct!')
                     i += 1
     if i == 3:
-        print("Congratulations, " + name + "!")
+        print(f"Congratulations, {name}!")
