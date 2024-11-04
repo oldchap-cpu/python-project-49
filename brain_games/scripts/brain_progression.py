@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import prompt
-from brain_games.games.gcf_game import gcf_game
+from brain_games.games.progression_game import progression_game
 from brain_games.games.cli import welcome_user
 
 
@@ -11,7 +11,7 @@ def main():
     answer = prompt.string("yes[y], no[any key]\n\033[33m>>> ")
     print("\033[0m")
     if answer == 'y' or answer == 'yes':
-        gcf_game(name)
+        progression_game(name)
     else:
         print('Sorry... see you later!')
 

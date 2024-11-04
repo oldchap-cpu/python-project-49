@@ -5,3 +5,5 @@
 [![asciicast](https://asciinema.org/a/tCeTODHNPi6NxiR9S3DQBm2bo.svg)](https://asciinema.org/a/tCeTODHNPi6NxiR9S3DQBm2bo)
 #### Find GCD ("great common divider")
 [![asciicast](https://asciinema.org/a/OiRhRIRgdwG1S45c4J6JC7i0q.svg)](https://asciinema.org/a/OiRhRIRgdwG1S45c4J6JC7i0q)
+#### Restore progression item
+[![asciicast](https://asciinema.org/a/NAAxnw9iqL3WomRrG3IS2EEhC.svg)](https://asciinema.org/a/NAAxnw9iqL3WomRrG3IS2EEhC)
