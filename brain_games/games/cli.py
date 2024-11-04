@@ -1,6 +1,6 @@
 def welcome_user():
 
-    from colorama import Fore, Back, Style
+    from colorama import Fore, Style
     import prompt
 
     print("Welcome to the Brain Games!")
