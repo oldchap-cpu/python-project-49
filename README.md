@@ -7,3 +7,5 @@
 [![asciicast](https://asciinema.org/a/OiRhRIRgdwG1S45c4J6JC7i0q.svg)](https://asciinema.org/a/OiRhRIRgdwG1S45c4J6JC7i0q)
 #### Restore progression item
 [![asciicast](https://asciinema.org/a/NAAxnw9iqL3WomRrG3IS2EEhC.svg)](https://asciinema.org/a/NAAxnw9iqL3WomRrG3IS2EEhC)
+#### Is a number prime?
+[![asciicast](https://asciinema.org/a/4PPHnZad5F8MTnw5g5qhWiRYP.svg)](https://asciinema.org/a/4PPHnZad5F8MTnw5g5qhWiRYP)
