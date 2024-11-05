@@ -5,6 +5,7 @@ import prompt
 from brain_games.games.gcf_game import gcf_game
 from brain_games.games.cli import welcome_user
 
+
 def main():
     name = welcome_user()
     print(f'Do you want a game, {name}?')
@@ -14,5 +15,7 @@ def main():
         gcf_game(name)
     else:
         print('Sorry... see you later!')
+
+
 if __name__ == '__main__':
     main()
